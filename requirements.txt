@@ -1,0 +1,5 @@
+pandas
+tweepy
+praw
+textblob
+nltk
